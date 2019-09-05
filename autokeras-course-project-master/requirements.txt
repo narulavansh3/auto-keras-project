@@ -1,0 +1,6 @@
+numpy
+torch
+torchtext
+spacy
+scipy
+autokeras
